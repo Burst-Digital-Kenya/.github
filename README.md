@@ -48,7 +48,7 @@ Ready to take your digital presence to the next level? Reach out to us for all y
 
 - **Email**: [hello@burstdigital.co.ke](mailto:hello@burstdigital.co.ke)
 - **Phone (Primary)**: +254 708 865 088
-- **Phone (Alternative)**: +254 7X XX XX XXX (For app development inquiries)
+- **Phone (Alternative)**: +254 796 253 425 (For app development inquiries)
 
 Our offices are located in Nairobi, Kenya. If you prefer face-to-face discussions, we are always open to scheduling a meeting at our office.
 

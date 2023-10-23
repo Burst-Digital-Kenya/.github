@@ -55,5 +55,7 @@ Our offices are located in Nairobi, Kenya. If you prefer face-to-face discussion
 Connect with us and let Burst Digital Agency Kenya be your trusted partner in the digital world. 
 
 ![Burst Digital Logo](https://i0.wp.com/burstdigital.co.ke/wp-content/uploads/2023/03/BURST-DARK-LOGO.png?w=329&ssl=1)
+![Burst Digital Logo](https://i0.wp.com/burstdigital.co.ke/wp-content/uploads/2023/03/BURST-1.png?w=329&ssl=1)
+
 
 *Elevate your digital game with Burst Digital.*

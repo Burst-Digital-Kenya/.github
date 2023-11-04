@@ -5,9 +5,6 @@ Welcome to Burst Digital Agency Kenya's official GitHub organization. We are a f
 <!-- Black Logo Image -->
 <img class="logo-dark" src="https://github.com/Burst-Digital-Kenya/.github/assets/71133936/165b6003-b32f-4913-93ba-cebb889d0f6f" alt="Black Logo">
 
-<!-- White Logo Image -->
-<img class="logo-light" src="https://github.com/Burst-Digital-Kenya/.github/assets/71133936/e94a6af8-ddd9-43eb-a7cc-fd46ba7e8cc8" alt="White Logo">
-
 **We are more than just an _ordinary web design agency_. We are your partners in digital excellence 🚀 - We help Burst your brand onto the digital stage 💥! With a team of creative and experienced professionals, we offer a wide range of services to empower your business in the digital landscape**
 
 
